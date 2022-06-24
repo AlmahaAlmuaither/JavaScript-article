@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(64, 50, 54);
+}
+
+.heading{
+    margin-top: 250px;
+}
+
+.heading h1{
+    color: white;
+    font-size: 100px;
+}
+
+.btn {
+    background-color:rgb(249, 123, 101);
+    border-radius: 25px;
+    width: 250px;
+    height: 50px;
+    margin-top: 40px;
+}
+
+.btn:hover {
+    background-color: white;
+  }
+
+  .keyword {
+    color: rgb(83, 107, 153);
+  }
+
+  .search-btn{
+    width: 150px;
+    height: 50px;
+    background-color:rgb(245, 140, 121);
+    border-radius: 25px;
+    margin-top: 10px;
+  }
+
+ 
